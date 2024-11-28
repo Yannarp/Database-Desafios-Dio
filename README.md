@@ -1,1 +1,1 @@
-## Projeto Conceitual de Banco de Dados – E-COMMERCE
+## Database Conceptual Design – E-COMMERCE
