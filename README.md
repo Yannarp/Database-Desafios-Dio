@@ -1,1 +1,1 @@
-## Database Conceptual Design – E-COMMERCE
+## Database Conceptual Design
