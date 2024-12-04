@@ -89,10 +89,6 @@ O esquema busca evitar redundâncias e garantir integridade referencial, utiliza
     JOIN Fornecedor ON Fornece.ID_Fornecedor = Fornecedor.ID_Fornecedor;
     ```
 
----
+-
 
-## Como Usar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/ecommerce-banco-de-dados.git
 
